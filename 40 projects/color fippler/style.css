@@ -1,0 +1,27 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.main{
+    text-align: center;
+    margin-top: 200px;
+}
+.main .colortxt h2{
+    font-size: 35px;
+    margin-bottom: 20px;
+    border:1px solid black;
+    width:500px;
+    margin-left:450px;
+}
+#btn{
+    width: 150px;
+    font-size: 25px;
+    margin-top:20px;
+}
+#btn:hover{
+    background-color: rgba(53, 240, 63, 0.822);
+    border-radius: 5px;
+    color:#ffff;
+    border-color:rgba(53, 240, 63, 0.822);
+}
